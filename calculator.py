@@ -1,7 +1,7 @@
 print("you have 4 options")
 print("Addition- 1")
 print("subtraction- 2")
-print("multiplication- s3")
+print("multiplication- 3")
 print("divisionn-4")
 def add(a,b):
     return a+b
